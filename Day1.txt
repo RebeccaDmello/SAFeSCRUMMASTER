@@ -18,3 +18,31 @@ Agile Manifesto
 - Customer collaboration over contract negotiation
 - Responding to change over following a plan
 
+SAFe Core Values
+
+SAFe Lean - Agile Principles
+- Take an economic view
+- Apply Systems thinking
+- Assume variability; preserve options
+- Build incrementally with fast, integrated learning cycles
+- Base milestonres on objective evaluation of working systems
+
+Positioning an Agile Team in a SAFe Enterprise
+
+Responsibilities of the Agile Team
+- Improving Relentlessly
+- Connecting with the customer
+- Getting Feedback
+- Delivering Value
+- Planning the work
+
+Agile teams have 2 speciality roles
+1. Scrum Master
+2. Product Owner
+
+Agile Release Trains (ARTs)
+- A virtual org of 5-12 teams (50-125+ individuals)
+- Synchronized on a common cadence - a PI
+- Aligned to a common mission via a single ART Backlog
+
+
