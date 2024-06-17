@@ -1,0 +1,20 @@
+Agile Economics: Deliver early and often
+- Requirements
+- Design
+- Implementation
+- Verification
+
+Waterfall - get value at end
+Agile - you get value at every stage not at the end
+
+Agile Development
+- SAFe - Timeboxing, Stories, Team syncs, Pair/mob programming
+- SCRUM - Frequent demos, Test-driven dev, Behavior-driven development
+- Kanban - Information radiators, Retrospectives, Continuous Integration, DevOps
+
+Agile Manifesto
+- Individuals and interactions over processes and tools
+- Working software over comprehensive documentation
+- Customer collaboration over contract negotiation
+- Responding to change over following a plan
+
