@@ -45,4 +45,14 @@ Agile Release Trains (ARTs)
 - Synchronized on a common cadence - a PI
 - Aligned to a common mission via a single ART Backlog
 
+Responsibilities of Scrum Master
 
+Characteristics of an effective Scrum Master
+
+Team events
+
+Coach the Agile Team using powerful questions
+
+Collaborate with other teams
+
+Resolve other teams
